@@ -15,9 +15,6 @@ We encourage others to do the same and contribute to the building of the Layers 
 
 For the full legal text of the CC0 1.0 Universal license, please visit:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
-## 📁 Repository Structure / リポジトリ構成図
-
-```text
 SAHS-Foundation/ (Root)
 │
 ├── .github/                 # GitHub System Files (Issue templates, etc.)
