@@ -15,3 +15,14 @@ We encourage others to do the same and contribute to the building of the Layers 
 
 For the full legal text of the CC0 1.0 Universal license, please visit:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
+---
+
+## 📁 Repository Structure / リポジトリ構成図
+
+```text
+SAHS-Foundation/ (Root)
+├── 📂 Layers/                # 🌀 The "Sacred Strata" (Main Data)
+│   ├── 🎧 Music/            # .m4a, .wav, .mp3 (Sound Sources)
+│   └── 🎨 Visual/           # .jpg, .png, .svg, .psd (Art Sources)
+├── ⚖️ License               # CC0 1.0 Universal (Public Domain)
+└── 📜 README.md             # Project Overview (This file)
