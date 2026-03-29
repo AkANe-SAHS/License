@@ -15,3 +15,29 @@ We encourage others to do the same and contribute to the building of the Layers 
 
 For the full legal text of the CC0 1.0 Universal license, please visit:
 https://creativecommons.org/publicdomain/zero/1.0/legalcode
+## 📁 Repository Structure / リポジトリ構成図
+
+```text
+SAHS-Foundation/ (Root)
+│
+├── .github/                 # GitHub System Files (Issue templates, etc.)
+│
+├── 📜 README.md             # Project Overview (This file)
+├── ⚖️ LICENSE               # CC0 1.0 Universal License (Public Domain)
+├── 📜 WhitePaper.pdf        # Official Technical & Legal Specifications
+│
+├── 📂 Layers/                # 🌀 The "Sacred Strata" (Main Data)
+│   │
+│   ├── 🎧 Music/            # .m4a, .wav, .mp3 (Sound Sources)
+│   │   ├── 001_Genesis/    # Folder for the first collective track
+│   │   │   ├── akane_voice_01.m4a
+│   │   │   └── contributor_synth_01.wav
+│   │   └── (New folders for new tracks...)
+│   │
+│   └── 🎨 Visual/           # .jpg, .png, .svg, .psd (Art Sources)
+│       ├── 001_Genesis/    # Folder for the first collective visual
+│       │   ├── akane_sketch_01.png
+│       │   └── contributor_layer_01.svg
+│       └── (New folders for new visuals...)
+│
+└── 🤝 Contribution_Guide.md # How to submit your Layer (EN/JP)
